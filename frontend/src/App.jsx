@@ -17,7 +17,7 @@ const App = () => {
       <div className="grid grid-cols-2 gap-4">
         <CodeMirror
           value={markdownText}
-          height="100vh"
+          height="100%"
           extensions={[markdown()]}
           onChange={handleMarkdownChange}
           className="border border-gray-300 rounded-lg shadow-md"
