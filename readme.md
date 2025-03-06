@@ -3,5 +3,5 @@
   - enter `npm i`
   - after that that enter `npm run setup-and-start`
 
-# Just to start backenda and frontend 
+# Just to start backend and frontend 
  - `npm run start-all`
